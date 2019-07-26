@@ -2,7 +2,7 @@
 
 asdkjhfdhasfklasdf
 
-this is a test for conflict merge!!!!!!
+this is a test for conflict merge watcher!!!!!!
 
 lllllllllll
 
